@@ -21,8 +21,11 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/shaik-1036/delhi-metro-data-analysis.git
-   cd delhi-metro-data-analysis
    ```
+   ```bash
+   cd delhi-metro-data-analysis/
+   ```
+
 
 2. Install dependencies:
    ```bash
