@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🚇 Delhi Metro Data Analysis App
 
 ## 📌 Overview
@@ -14,11 +14,16 @@ This **Streamlit** application provides interactive visualizations and insights 
 - **Yearly Openings:** Line graph showing metro expansion trends.
 - **Metro Station Layouts:** Stacked bar chart comparing underground/elevated stations.
 
+🔗 **Live App:** [Visit the Delhi Metro Analysis App](https://delhi-metro-data-analysis.streamlit.app/)
+
+
+
 ## 🔧 Installation
 
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/shaik-1036/delhi-metro-data-analysis.git
    ```
